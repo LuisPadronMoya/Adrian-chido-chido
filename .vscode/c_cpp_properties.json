@@ -4,7 +4,7 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:/Users/luisg/Documents/Arduino/libraries/**"
+                "Poner la ruta donde estan tus librerias**"
             ],
             "defines": [
                 "_DEBUG",
